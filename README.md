@@ -10,9 +10,9 @@
 
 ### 💻 Web Developer | UX/UI | Fullstack | Accessibility Advocate
 
-As a seasoned **Web Developer** with a focus on **UX/UI**, **front** and **back-end development**, and **web accessibility**, I’m passionate about building scalable, accessible, and user-friendly solutions. From **automation** to **app testing** and **debugging**, I’m comfortable with both mainstream and modern web technologies, consistently staying at the cutting edge. 
+As a seasoned **Web Developer** with a focus on **UX/UI**, **front** and **back-end development**, and **web accessibility**, I’m passionate about building scalable, accessible, and user-friendly solutions. From **automation** to **app testing** and **debugging**, I’m comfortable with both mainstream and modern web technologies, consistently staying updated. 
 
-I am **proficient in English** and currently expanding my expertise by learning **Angular**.
+I am **proficient in English** and currently expanding my expertise by learning **Angular** AND **pyTHON**.
 
 ---
 
@@ -28,14 +28,14 @@ I am **proficient in English** and currently expanding my expertise by learning 
 
 #### Senior Web Developer, **Hiking Snacks Azores**
 - Spearheaded development and growth.
-- Engineered a **fully responsive** websites and platforms.
+- Engineered **fully responsive** websites and platforms.
 - Developed dynamic, API-driven, and real-time content delivery.
   
 #### Senior Fullstack Developer, **SPMS/SNS (National Health Services)**
 - Designed and implemented **accessibility-focused** interfaces.
 - Created and optimized a cross-browser web apps.
   
-#### Junior Fullstack Developer, **NOS SGPS** (May 2021 – Aug 2021)
+#### Junior Fullstack Developer, **NOS SGPS**
 - Developed automation tools.
 - Implemented **Java-based OS integrations**.
 
