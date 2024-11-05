@@ -1,5 +1,7 @@
 # 👋 Hey.
 
+![Profile Views](https://komarev.com/ghpvc/?username=azorano&color=blue)
+
 ![Banner Image](https://media.licdn.com/dms/image/v2/C4D16AQEyQ-QH9alocA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1600980954603?e=1732147200&v=beta&t=TUQyUiGQhsFzJh4Mmd5irkxKzYoxdII11g2GkluxjsM)
 
 [![Email](https://img.shields.io/badge/Email-work%40brunomatos.pt-red)](mailto:work@brunomatos.pt)
