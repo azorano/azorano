@@ -24,23 +24,26 @@ I am **proficient in English** and currently expanding my expertise by learning 
 - **Communication & Collaboration**
 - **Team Player**
 
----
-
-### 💼 Professional Experience:
-
-#### Senior Web Developer, **Hiking Snacks Azores**
-- Spearheaded development and growth.
-- Engineered **fully responsive** websites and platforms.
-- Developed dynamic, API-driven, and real-time content delivery.
-  
-#### Senior Fullstack Developer, **SPMS/SNS (National Health Services)**
-- Designed and implemented **accessibility-focused** interfaces.
-- Created and optimized a cross-browser web apps.
-  
-#### Junior Fullstack Developer, **NOS SGPS**
-- Developed automation tools.
-- Implemented **Java-based OS integrations**.
-
+### 💼 Professional Experience
+ 
+#### Senior Web Developer, Connexall
+- Deployed and secured Linux-based infrastructure for scalable internal web development.
+- Built an in-house development ecosystem with Node.js, React (Vite) and MySQL.
+- Led Nextcloud setup and optimization, strengthening collaboration and HIPAA/PHI compliance.
+- Standardized workflows through documentation, automation and hardened security practices.
+ 
+#### Freelancer & Consultant
+- Delivered secure, scalable web solutions and technical consulting.
+- Supported businesses with software engineering, automation and cybersecurity-focused guidance.
+ 
+#### Business Developer / Full Stack Developer, Hiking Snacks Azores
+- Managed end-to-end web development initiatives.
+- Built responsive, API-driven platforms with real-time content delivery.
+ 
+#### Full Stack Developer, NOS SGPS / SPMS (SNS)
+- Developed accessibility-focused web applications aligned with EU standards.
+- Implemented automation tools, dashboards and Java-based OS integrations.
+ 
 ---
 
 ### 🛠️ Tech Stack:
